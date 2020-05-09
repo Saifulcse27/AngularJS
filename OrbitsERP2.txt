@@ -1,0 +1,25 @@
+*******************************Observation****************************************
+Every transaction should be predefined 
+Example 1:GL intregration will be done ?(Y/N) 
+		  If Y Then Procedure will execute 
+		  else
+		  Procedure will not execute  
+Example 2:
+        Cost Finalization will be done Before Stock Receipt ?(Y/N)
+		  If Y Then without  Cost Finalization   Stock Receipt can't done
+		  else
+		  Stock Receipt can done without  Cost Finalization
+Example 3:		  
+		 Docnumber generate accroding to Warhouse/Company wise?
+		 
+************************************************
+1.All Constraint From 70 To 12C Database
+2.Double Heading Will be Remove
+3.Information Is not enough for Item master
+4.Interface must be good looking
+5.Search Option by chesis in token generate form,Message will be clear
+6.Notification will come for Purchase Order/Request
+7.Notification will come for Material Issue Request
+8.Cost Finalize at Stock receive time ?
+9.Raise SPR From Stock Transfer
+
