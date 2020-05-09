@@ -1,4 +1,4 @@
-*******************************Observation****************************************
+
 Every transaction should be predefined 
 Example 1:GL intregration will be done ?(Y/N) 
 		  If Y Then Procedure will execute 
